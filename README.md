@@ -10,7 +10,7 @@ The VWAP is a trading benchmark used by traders to show the average price of sec
 
 - Graph of VWAP against date
 
-![Data](fig/output_44_1.png)
+![Data](fig/output_7_1.png)
 
 From this graph, we can conclude that:
 
@@ -44,7 +44,7 @@ AR: Autoregression. A model that uses observations from the previous time step a
 
 # Prediction Results and Evaluations
 
-![Data](fig/output_7_1.png)
+![Data](fig/output_44_1.png)
 
 RMSE= 136.14
 
