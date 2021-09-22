@@ -20,7 +20,7 @@ From this graph, we can conclude that:
 
 - NaN values
 
-![Data](fig/NaN.png)
+![Data](fig/NaN.PNG)
 
 There are NaN values in Trades, Deliverable Volume, and %Deliverable columns. Mode than 50% of data in Trades is NaN.
 
